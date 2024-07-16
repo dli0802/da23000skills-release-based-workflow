@@ -1,3 +1,3 @@
 <?php
-echo "add a new line";
+echo "a new line";
 ?>
