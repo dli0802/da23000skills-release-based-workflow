@@ -10,7 +10,7 @@
 -->
 
 # Create a release based workflow. 
-# Here is the change. Test TesT TEST.
+# Here is the change. Test TesT TEST
 
 _Create a release based workflow that is built on the foundations of the GitHub flow._
 
